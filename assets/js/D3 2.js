@@ -188,7 +188,8 @@ document.getElementById('es13').innerHTML = me.skills
 
 var array1 = []
 
-array1 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+array1.push(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+
 document.getElementById('es14').innerHTML = array1
 
 
